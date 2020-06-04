@@ -1,0 +1,35 @@
+{
+  "name": "vscode-feathersui-extension-pack",
+  "displayName": "Feathers UI Extension Pack",
+  "description": "A collection of essential Feathers UI extensions for Visual Studio Code",
+  "version": "1.0.0",
+  "private": true,
+  "publisher": "bowlerhatllc",
+  "author": {
+    "name": "Josh Tynjala"
+  },
+  "homepage": "https://feathersui.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BowlerHatLLC/vscode-feathersui-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BowlerHatLLC/vscode-feathersui-extension-pack/issues"
+  },
+  "extensionPack": [
+    "nadako.vshaxe",
+    "openfl.lime-vscode-extension",
+    "bowlerhatllc.vscode-feathersui"
+  ],
+  "main": "bin/extension.js",
+  "icon": "feathersui.png",
+  "keywords": [
+    "Feathers UI",
+    "Haxe",
+    "OpenFL"
+  ],
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.36.0"
+  }
+}
