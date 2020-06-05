@@ -21,7 +21,6 @@
     "openfl.lime-vscode-extension",
     "bowlerhatllc.vscode-feathersui"
   ],
-  "main": "bin/extension.js",
   "icon": "feathersui.png",
   "keywords": [
     "Feathers UI",
