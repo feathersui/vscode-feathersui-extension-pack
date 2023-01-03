@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/BowlerHatLLC/vscode-feathersui-extension-pack/issues"
   },
+  "sponsor": {
+    "url": "https://github.com/sponsors/joshtynjala"
+  },
   "extensionPack": [
     "nadako.vshaxe",
     "openfl.lime-vscode-extension",
