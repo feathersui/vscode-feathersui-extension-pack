@@ -38,6 +38,6 @@
     "vscode": "^1.36.0"
   },
   "devDependencies": {
-    "vsce": "~2.9.2"
+    "@vscode/vsce": "~3.6.1"
   }
 }
